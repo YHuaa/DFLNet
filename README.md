@@ -1,5 +1,5 @@
 # DFLNet
-@article{ZHANG2024109281,
+>@article{ZHANG2024109281,
 title = {Learning to sound imaging by a model-based interpretable network},
 journal = {Signal Processing},
 volume = {215},
